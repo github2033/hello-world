@@ -1,2 +1,3 @@
 # hello-world
-My 1st play github repo
+Hi, Humans, 
+Hobot here. I lik Node.js and Coffescript.
